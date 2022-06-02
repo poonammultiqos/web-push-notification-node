@@ -40,3 +40,22 @@
 
 #####6) Test route
 - We have to test this route in browser : `http://localhost:5000/`
+
+
+
+
+
+
+
+
+### Send notifications to Android App from Node.js server using Firebase Cloud Messaging (FCM)
+
+#####1) Setting up a new Firebase project
+
+#####2) Setting up Node.js
+- Run command : `npm install firebase-admin`
+- Adding configuration of the Firebase project
+- Send a message to devices for create variable `registrationToken`, `message`, `notification_options`
+
+#####3) Run command: 
+- `npm run app`
